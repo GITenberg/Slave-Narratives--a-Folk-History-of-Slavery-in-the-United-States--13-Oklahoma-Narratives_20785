@@ -1,0 +1,30 @@
+_repo: Slave-Narratives--a-Folk-History-of-Slavery-in-the-United-States--13-Oklahoma-Narratives_20785
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Work Projects Administration
+    alias: Administration, Work Projects
+    gutenberg_agent_id: '3906'
+    url: http://www.gutenberg.org/2009/agents/3906
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2007-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oklahoma -- Biography'
+- !lcsh 'African Americans -- Oklahoma -- Interviews'
+- !lcsh 'Slaves -- Southern States -- Biography'
+- !lcc 'E300'
+- !lcsh 'African Americans -- Oklahoma -- History -- Sources'
+title: "Slave Narratives: a Folk History of Slavery in the United States\r\nFrom Interviews\
+  \ with Former Slaves\r\nOklahoma Narratives"
+url: http://www.gutenberg.org/ebooks/20785
